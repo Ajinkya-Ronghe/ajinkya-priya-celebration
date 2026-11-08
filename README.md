@@ -1,0 +1,1 @@
+Extract the whole folder and double-click Open invitation.html. Keep the artwork folders beside the HTML. This offline preview uses system fonts and disables RSVP submissions. The original demo is by The Digital Yes.
